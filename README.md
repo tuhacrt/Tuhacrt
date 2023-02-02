@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tuhacrt
-- 🌱 I’m currently learning html,css,javascrupt
+- 🌱 I’m currently learning Vue, TypeScript, NodeJS
 
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
 <p>
