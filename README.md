@@ -2,6 +2,10 @@
 
 Hi, I’m Tuhacrt, a backend engineer who's learning **Function Programming** style.
 
+<a href="https://www.linyuanlin.com">
+  <img src="https://skillicons.dev/icons?i=ts,vue,vite,bootstrap,mysql,mongo" />
+</a>
+
 ## My GitHub Stats
 
 <div>
