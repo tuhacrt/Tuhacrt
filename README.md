@@ -3,7 +3,7 @@
 Hi, I’m Tuhacrt, a backend engineer who's learning **Function Programming** style.
 
 <a href="https://www.linyuanlin.com">
-  <img src="https://skillicons.dev/icons?i=ts,vue,vite,bootstrap,mysql,mongo" />
+  <img src="https://skillicons.dev/icons?i=ts,mysql,mongo,vue,vite,bootstrap" />
 </a>
 
 ## My GitHub Stats
