@@ -2,7 +2,7 @@
 
 Hi, I’m Tuhacrt, a backend engineer who's learning **Function Programming** style.
 
-<a href="https://www.linyuanlin.com">
+<a href="https://github.com/Tuhacrt">
   <img src="https://skillicons.dev/icons?i=ts,mysql,mongo,vue,vite,bootstrap" />
 </a>
 
