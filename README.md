@@ -9,8 +9,8 @@ Hi, I’m Tuhacrt, a backend engineer who's learning **Function Programming** st
 ## My GitHub Stats
 
 <div>
- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tuhacrt&show_icons=true&theme=dracula&hide=issues"/>
- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tuhacrt&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tuhacrt&show_icons=true&theme=dracula&hide=issues"/>
+ <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tuhacrt&langs_count=7&theme=dracula"/>
 </div>
 
 ## Languages
