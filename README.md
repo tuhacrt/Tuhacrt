@@ -37,7 +37,7 @@ Hi, I’m Tuhacrt, a backend engineer who's learning **Function Programming** st
 
 ![](https://img.shields.io/badge/-Github%20Actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white)
 
-## Development Tool skills
+## Development Tools
 
 ![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white)
